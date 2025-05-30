@@ -44,11 +44,3 @@ Here's what we love and excel at:
 - Insightful documentation for seamless development.
 
 ---
-
-## 🚀 **Getting Started**
-
-To contribute or explore:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ibotix-in/your-repo.git
