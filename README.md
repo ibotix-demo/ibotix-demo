@@ -8,9 +8,8 @@
 [![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=aiqfome&logoColor=white)](https://ibotix.in)
 [![ML](https://img.shields.io/badge/Machine_Learning-0E6655?style=for-the-badge&logo=azure-functions&logoColor=white)](https://ibotix.in)
 
-![Cover](https://user-images.githubusercontent.com/74038190/252029234-ff10f5cb-df03-4efc-ae0a-f892ae4fd925.png)
 
-### **Transforming Ideas into Intelligent Solutions**
+### **AI-Driven**
 
 </div>
 
